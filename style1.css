@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.image img{
+    width: 1%;
+}
+.title{
+    text-align: center;
+}
+.card{
+    width: 10;
+    background-color: gray;
+}
+.des{
+    text-align: center;
+}
+.button{
+    margin-top: 10%;
+}
